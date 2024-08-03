@@ -1,6 +1,7 @@
 Food Log Web Application
 
 This project implements a web application for tracking daily food intake using SQLite and Flask. Users can log their meals with details on protein, carbohydrates, fat, and total calories. The application allows users to view their food logs by date and add new food items to the database.
+
 Table Structure
 log_date
 
